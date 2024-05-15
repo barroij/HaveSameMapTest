@@ -1,0 +1,13 @@
+{
+  "name": "have-same-map-test",
+  "description": "",
+  "type": "module",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "v8-natives": "1.2.5"
+  },
+  "scripts": {
+    "test": "node --allow-natives-syntax main.js"
+  }
+}
